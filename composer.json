@@ -1,5 +1,5 @@
 {
-  "name": "firesphere/wysiwyg-accordion",
+  "name": "firesphere/silverstripe-googlyurls",
   "description": "Quickly get goo.gl short links for your pages",
   "type": "silverstripe-module",
   "license": "BSD-3-Clause",
