@@ -1,0 +1,24 @@
+{
+  "name": "firesphere/wysiwyg-accordion",
+  "description": "Quickly get goo.gl short links for your pages",
+  "type": "silverstripe-module",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "silverstripe",
+    "googl"
+  ],
+  "authors": [
+    {
+      "name": "Simon `Firesphere` Erkelens",
+      "email": "simonerkelens@silverstripe.com"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "^3.2",
+    "silverstripe/cms": "^3.2"
+  },
+  "extra": {
+    "installer-name": "googleshortener"
+  },
+  "target-dir": "googleshortener"
+}
